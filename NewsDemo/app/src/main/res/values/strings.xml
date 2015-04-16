@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">News Demo</string>
+
+    <string name="title_section1">Top Stories</string>
+    <string name="title_section2">World</string>
+    <string name="title_section3">UK</string>
+    <string name="title_section4">Business</string>
+    <string name="title_section5">Politics</string>
+    <string name="title_section6">Health</string>
+    <string name="title_section7">Education &amp; Family</string>
+    <string name="title_section8">Science &amp; Environment</string>
+    <string name="title_section9">Technology</string>
+    <string name="title_section10">Entertainment &amp; Arts</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
